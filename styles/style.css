@@ -80,6 +80,7 @@ main > h1{
     color: #063D1E;
     font-family: 'android', Times, sans-serif;
     font-weight: normal;
+    text-align: justify;
  }
 main > h2{
         background-image:linear-gradient(to right,#84E1AD, white );
